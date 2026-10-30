@@ -1,0 +1,24 @@
+{
+  "name": "insturmensdata_7b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuscaJ/InsturmensData_7B.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RuscaJ/InsturmensData_7B/issues"
+  },
+  "homepage": "https://github.com/RuscaJ/InsturmensData_7B#readme",
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0"
+  }
+}
